@@ -36,4 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<a href="https://beian.miit.gov.cn" target="_blank">粤ICP备19047047号-1</a>
+[ICP主体备案号:粤ICP备19047047号](https://beian.miit.gov.cn)
+[网站备案号:粤ICP备19047047号-1](https://beian.miit.gov.cn)
